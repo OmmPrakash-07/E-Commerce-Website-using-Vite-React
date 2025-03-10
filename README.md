@@ -43,7 +43,7 @@ E-Commerce-Website-using-React
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/E-Commerce-Website-using-React.git
+git clone https://github.com/OmmPrakash-07/E-Commerce-Website-using-React.js
 cd E-Commerce-Website-using-React
 
 2️⃣ Install Dependencies
