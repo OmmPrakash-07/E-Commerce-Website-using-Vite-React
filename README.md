@@ -22,7 +22,7 @@ This is a fully functional E-Commerce Website built using React.js. The project 
 
 Frontend: React.js, React Router
 
-Styling: Tailwind CSS / Bootstrap / Material-UI
+Styling: CSS
 
 📂 Project Structure
 ```
