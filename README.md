@@ -25,7 +25,7 @@ Frontend: React.js, React Router
 Styling: Tailwind CSS / Bootstrap / Material-UI
 
 📂 Project Structure
-
+```
 E-Commerce-Website-using-React
 │── src
 │   ├── components
@@ -38,7 +38,7 @@ E-Commerce-Website-using-React
 │── public
 │── package.json
 │── README.md
-
+```
 🛠️ Installation & Setup
 
 1️⃣ Clone the Repository
